@@ -1,4 +1,5 @@
 Android 开源项目分类汇总
+clone on 2017.7.4
 ====================
 Other: [English Version](https://github.com/Trinea/android-open-project/tree/master/English%20Version), [繁體版](https://github.com/Trinea/android-open-project/tree/master/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%E7%89%88), [Website Version](http://p.codekk.com/).    
 > 我们的微信公众号：codekk。二维码如下：  
